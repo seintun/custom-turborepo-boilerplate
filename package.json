@@ -2,7 +2,7 @@
     "private": true,
     "scripts": {
         "build": "turbo run build",
-        "dev": "turbo run dev --no-cache --continue  --parallel",
+        "dev": "turbo run dev --no-cache --continue --parallel",
         "lint": "turbo run lint",
         "clean": "turbo run clean && rm -rf node_modules",
         "format": "prettier --write \"**/*.{ts,tsx,js,jsx,md,json,html}\"",
@@ -11,7 +11,10 @@
         "commit": "git-cz",
         "changeset": "changeset",
         "version-packages": "changeset version",
-        "publish-packages": "turbo run build lint && changeset version && changeset publish"
+        "publish-packages": "turbo run build lint && changeset version && changeset publish",
+        "storybook:dev": "turbo run storybook:dev --parallel",
+        "storybook:build": "turbo run storybook:build --parallel",
+        "storybook:move": "turbo run storybook:move --filter=docs && turbo run storybook:move --filter=!docs"
     },
     "devDependencies": {
         "@changesets/cli": "^2.26.1",
