@@ -2,8 +2,6 @@
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
-
 ## Tech Stack
 
 - **Next.js 13**: A React framework for building server-side rendered and statically generated websites.
@@ -25,11 +23,11 @@
 
 ## Getting Started
 
-### Install `my-monorepo` with pnpm
+### Install `turborepo-next-boilerplate` with pnpm
 
 ```bash
-  git clone git@github.com:seintun/my-monorepo.git
-  cd my-monorepo
+  git clone git@github.com:seintun/turborepo-next-boilerplate.git
+  cd turborepo-next-boilerplate
 ```
 
 ### Install `pnpm` on your local machine
