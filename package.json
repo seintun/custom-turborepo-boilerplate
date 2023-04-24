@@ -8,12 +8,17 @@
         "format": "prettier --write \"**/*.{ts,tsx,js,jsx,md,json,html}\"",
         "lint-staged": "lint-staged",
         "prepare": "husky install",
+        "commit": "git-cz",
         "changeset": "changeset",
         "version-packages": "changeset version",
         "publish-packages": "turbo run build lint && changeset version && changeset publish"
     },
     "devDependencies": {
         "@changesets/cli": "^2.26.1",
+        "@commitlint/cli": "^17.6.1",
+        "@commitlint/config-conventional": "^17.6.1",
+        "commitizen": "^4.3.0",
+        "cz-conventional-changelog": "^3.3.0",
         "eslint": "^7.32.0",
         "eslint-config-custom": "workspace:*",
         "husky": "^8.0.3",
@@ -30,5 +35,10 @@
         "*.{json,md,html,js,jsx,ts,tsx}": [
             "prettier --write"
         ]
+    },
+    "config": {
+        "commitizen": {
+            "path": "cz-conventional-changelog"
+        }
     }
 }
