@@ -1,5 +1,13 @@
 # docs
 
+## 0.0.4
+
+### Patch Changes
+
+- e8b6f25: ci(changeset) Add changeset configs with ability to create tags
+- Updated dependencies [e8b6f25]
+  - ui@0.0.4
+
 ## 0.0.3
 
 ### Patch Changes
