@@ -15,7 +15,6 @@
         "commit": "git-cz",
         "changeset": "changeset",
         "version-packages": "changeset version",
-        "publish-packages": "changeset publish --tag=latest",
         "storybook:dev": "turbo run storybook:dev --parallel",
         "storybook:build": "turbo run storybook:build --parallel",
         "storybook:move": "turbo run storybook:move --filter=docs && turbo run storybook:move --filter=!docs"
