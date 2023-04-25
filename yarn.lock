@@ -1432,114 +1432,9 @@
   "resolved" "https://registry.npmjs.org/@emotion/use-insertion-effect-with-fallbacks/-/use-insertion-effect-with-fallbacks-1.0.0.tgz"
   "version" "1.0.0"
 
-"@esbuild/android-arm@0.17.18":
-  "integrity" "sha512-EmwL+vUBZJ7mhFCs5lA4ZimpUH3WMAoqvOIYhVQwdIgSpHC8ImHdsRyhHAVxpDYUSm0lWvd63z0XH1IlImS2Qw=="
-  "resolved" "https://registry.npmjs.org/@esbuild/android-arm/-/android-arm-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/android-arm64@0.17.18":
-  "integrity" "sha512-/iq0aK0eeHgSC3z55ucMAHO05OIqmQehiGay8eP5l/5l+iEr4EIbh4/MI8xD9qRFjqzgkc0JkX0LculNC9mXBw=="
-  "resolved" "https://registry.npmjs.org/@esbuild/android-arm64/-/android-arm64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/android-x64@0.17.18":
-  "integrity" "sha512-x+0efYNBF3NPW2Xc5bFOSFW7tTXdAcpfEg2nXmxegm4mJuVeS+i109m/7HMiOQ6M12aVGGFlqJX3RhNdYM2lWg=="
-  "resolved" "https://registry.npmjs.org/@esbuild/android-x64/-/android-x64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/darwin-arm64@0.17.18":
-  "integrity" "sha512-6tY+djEAdF48M1ONWnQb1C+6LiXrKjmqjzPNPWXhu/GzOHTHX2nh8Mo2ZAmBFg0kIodHhciEgUBtcYCAIjGbjQ=="
-  "resolved" "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.17.18.tgz"
-  "version" "0.17.18"
-
 "@esbuild/darwin-x64@0.17.18":
   "integrity" "sha512-Qq84ykvLvya3dO49wVC9FFCNUfSrQJLbxhoQk/TE1r6MjHo3sFF2tlJCwMjhkBVq3/ahUisj7+EpRSz0/+8+9A=="
   "resolved" "https://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/freebsd-arm64@0.17.18":
-  "integrity" "sha512-fw/ZfxfAzuHfaQeMDhbzxp9mc+mHn1Y94VDHFHjGvt2Uxl10mT4CDavHm+/L9KG441t1QdABqkVYwakMUeyLRA=="
-  "resolved" "https://registry.npmjs.org/@esbuild/freebsd-arm64/-/freebsd-arm64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/freebsd-x64@0.17.18":
-  "integrity" "sha512-FQFbRtTaEi8ZBi/A6kxOC0V0E9B/97vPdYjY9NdawyLd4Qk5VD5g2pbWN2VR1c0xhzcJm74HWpObPszWC+qTew=="
-  "resolved" "https://registry.npmjs.org/@esbuild/freebsd-x64/-/freebsd-x64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/linux-arm@0.17.18":
-  "integrity" "sha512-jW+UCM40LzHcouIaqv3e/oRs0JM76JfhHjCavPxMUti7VAPh8CaGSlS7cmyrdpzSk7A+8f0hiedHqr/LMnfijg=="
-  "resolved" "https://registry.npmjs.org/@esbuild/linux-arm/-/linux-arm-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/linux-arm64@0.17.18":
-  "integrity" "sha512-R7pZvQZFOY2sxUG8P6A21eq6q+eBv7JPQYIybHVf1XkQYC+lT7nDBdC7wWKTrbvMXKRaGudp/dzZCwL/863mZQ=="
-  "resolved" "https://registry.npmjs.org/@esbuild/linux-arm64/-/linux-arm64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/linux-ia32@0.17.18":
-  "integrity" "sha512-ygIMc3I7wxgXIxk6j3V00VlABIjq260i967Cp9BNAk5pOOpIXmd1RFQJQX9Io7KRsthDrQYrtcx7QCof4o3ZoQ=="
-  "resolved" "https://registry.npmjs.org/@esbuild/linux-ia32/-/linux-ia32-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/linux-loong64@0.17.18":
-  "integrity" "sha512-bvPG+MyFs5ZlwYclCG1D744oHk1Pv7j8psF5TfYx7otCVmcJsEXgFEhQkbhNW8otDHL1a2KDINW20cfCgnzgMQ=="
-  "resolved" "https://registry.npmjs.org/@esbuild/linux-loong64/-/linux-loong64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/linux-mips64el@0.17.18":
-  "integrity" "sha512-oVqckATOAGuiUOa6wr8TXaVPSa+6IwVJrGidmNZS1cZVx0HqkTMkqFGD2HIx9H1RvOwFeWYdaYbdY6B89KUMxA=="
-  "resolved" "https://registry.npmjs.org/@esbuild/linux-mips64el/-/linux-mips64el-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/linux-ppc64@0.17.18":
-  "integrity" "sha512-3dLlQO+b/LnQNxgH4l9rqa2/IwRJVN9u/bK63FhOPB4xqiRqlQAU0qDU3JJuf0BmaH0yytTBdoSBHrb2jqc5qQ=="
-  "resolved" "https://registry.npmjs.org/@esbuild/linux-ppc64/-/linux-ppc64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/linux-riscv64@0.17.18":
-  "integrity" "sha512-/x7leOyDPjZV3TcsdfrSI107zItVnsX1q2nho7hbbQoKnmoeUWjs+08rKKt4AUXju7+3aRZSsKrJtaRmsdL1xA=="
-  "resolved" "https://registry.npmjs.org/@esbuild/linux-riscv64/-/linux-riscv64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/linux-s390x@0.17.18":
-  "integrity" "sha512-cX0I8Q9xQkL/6F5zWdYmVf5JSQt+ZfZD2bJudZrWD+4mnUvoZ3TDDXtDX2mUaq6upMFv9FlfIh4Gfun0tbGzuw=="
-  "resolved" "https://registry.npmjs.org/@esbuild/linux-s390x/-/linux-s390x-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/linux-x64@0.17.18":
-  "integrity" "sha512-66RmRsPlYy4jFl0vG80GcNRdirx4nVWAzJmXkevgphP1qf4dsLQCpSKGM3DUQCojwU1hnepI63gNZdrr02wHUA=="
-  "resolved" "https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/netbsd-x64@0.17.18":
-  "integrity" "sha512-95IRY7mI2yrkLlTLb1gpDxdC5WLC5mZDi+kA9dmM5XAGxCME0F8i4bYH4jZreaJ6lIZ0B8hTrweqG1fUyW7jbg=="
-  "resolved" "https://registry.npmjs.org/@esbuild/netbsd-x64/-/netbsd-x64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/openbsd-x64@0.17.18":
-  "integrity" "sha512-WevVOgcng+8hSZ4Q3BKL3n1xTv5H6Nb53cBrtzzEjDbbnOmucEVcZeGCsCOi9bAOcDYEeBZbD2SJNBxlfP3qiA=="
-  "resolved" "https://registry.npmjs.org/@esbuild/openbsd-x64/-/openbsd-x64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/sunos-x64@0.17.18":
-  "integrity" "sha512-Rzf4QfQagnwhQXVBS3BYUlxmEbcV7MY+BH5vfDZekU5eYpcffHSyjU8T0xucKVuOcdCsMo+Ur5wmgQJH2GfNrg=="
-  "resolved" "https://registry.npmjs.org/@esbuild/sunos-x64/-/sunos-x64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/win32-arm64@0.17.18":
-  "integrity" "sha512-Kb3Ko/KKaWhjeAm2YoT/cNZaHaD1Yk/pa3FTsmqo9uFh1D1Rfco7BBLIPdDOozrObj2sahslFuAQGvWbgWldAg=="
-  "resolved" "https://registry.npmjs.org/@esbuild/win32-arm64/-/win32-arm64-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/win32-ia32@0.17.18":
-  "integrity" "sha512-0/xUMIdkVHwkvxfbd5+lfG7mHOf2FRrxNbPiKWg9C4fFrB8H0guClmaM3BFiRUYrznVoyxTIyC/Ou2B7QQSwmw=="
-  "resolved" "https://registry.npmjs.org/@esbuild/win32-ia32/-/win32-ia32-0.17.18.tgz"
-  "version" "0.17.18"
-
-"@esbuild/win32-x64@0.17.18":
-  "integrity" "sha512-qU25Ma1I3NqTSHJUOKi9sAH1/Mzuvlke0ioMJRthLXKm7JiSKVwFghlGbDLOO2sARECGhja4xYfRAZNPAkooYg=="
-  "resolved" "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.17.18.tgz"
   "version" "0.17.18"
 
 "@eslint-community/eslint-utils@^4.2.0":
@@ -1764,49 +1659,9 @@
   dependencies:
     "glob" "7.1.7"
 
-"@next/swc-darwin-arm64@13.3.1":
-  "integrity" "sha512-UXPtriEc/pBP8luSLSCZBcbzPeVv+SSjs9cH/KygTbhmACye8/OOXRZO13Z2Wq1G0gLmEAIHQAOuF+vafPd2lw=="
-  "resolved" "https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-13.3.1.tgz"
-  "version" "13.3.1"
-
 "@next/swc-darwin-x64@13.3.1":
   "integrity" "sha512-lT36yYxosCfLtplFzJWgo0hrPu6/do8+msgM7oQkPeohDNdhjtjFUgOOwdSnPublLR6Mo2Ym4P/wl5OANuD2bw=="
   "resolved" "https://registry.npmjs.org/@next/swc-darwin-x64/-/swc-darwin-x64-13.3.1.tgz"
-  "version" "13.3.1"
-
-"@next/swc-linux-arm64-gnu@13.3.1":
-  "integrity" "sha512-wRb76nLWJhonH8s3kxC/1tFguEkeOPayIwe9mkaz1G/yeS3OrjeyKMJsb4+Kdg0zbTo53bNCOl59NNtDM7yyyw=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-13.3.1.tgz"
-  "version" "13.3.1"
-
-"@next/swc-linux-arm64-musl@13.3.1":
-  "integrity" "sha512-qz3BzjJRZ16Iq/jrp+pjiYOc0jTjHlfmxQmZk9x/+5uhRP6/eWQSTAPVJ33BMo6oK5O5N4644OgTAbzXzorecg=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-13.3.1.tgz"
-  "version" "13.3.1"
-
-"@next/swc-linux-x64-gnu@13.3.1":
-  "integrity" "sha512-6mgkLmwlyWlomQmpl21I3hxgqE5INoW4owTlcLpNsd1V4wP+J46BlI/5zV5KWWbzjfncIqzXoeGs5Eg+1GHODA=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-13.3.1.tgz"
-  "version" "13.3.1"
-
-"@next/swc-linux-x64-musl@13.3.1":
-  "integrity" "sha512-uqm5sielhQmKJM+qayIhgZv1KlS5pqTdQ99b+Z7hMWryXS96qE0DftTmMZowBcUL6x7s2vSXyH5wPtO1ON7LBg=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-13.3.1.tgz"
-  "version" "13.3.1"
-
-"@next/swc-win32-arm64-msvc@13.3.1":
-  "integrity" "sha512-WomIiTj/v3LevltlibNQKmvrOymNRYL+a0dp5R73IwPWN5FvXWwSELN/kiNALig/+T3luc4qHNTyvMCp9L6U5Q=="
-  "resolved" "https://registry.npmjs.org/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-13.3.1.tgz"
-  "version" "13.3.1"
-
-"@next/swc-win32-ia32-msvc@13.3.1":
-  "integrity" "sha512-M+PoH+0+q658wRUbs285RIaSTYnGBSTdweH/0CdzDgA6Q4rBM0sQs4DHmO3BPP0ltCO/vViIoyG7ks66XmCA5g=="
-  "resolved" "https://registry.npmjs.org/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-13.3.1.tgz"
-  "version" "13.3.1"
-
-"@next/swc-win32-x64-msvc@13.3.1":
-  "integrity" "sha512-Sl1F4Vp5Z1rNXWZYqJwMuWRRol4bqOB6+/d7KqkgQ4AcafKPN1PZmpkCoxv4UFHtFNIB7EotnuIhtXu3zScicQ=="
-  "resolved" "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-13.3.1.tgz"
   "version" "13.3.1"
 
 "@nodelib/fs.scandir@2.1.5":
@@ -3140,6 +2995,11 @@
   dependencies:
     "@typescript-eslint/types" "5.59.1"
     "eslint-visitor-keys" "^3.3.0"
+
+"@vercel/analytics@^1.0.0":
+  "integrity" "sha512-RQmj7pv82JwGDHrnKeRc6TtSw2U7rWNubc2IH0ernTzWTj02yr9zvIYiYJeztsBzrJtWv7m8Nz6vxxb+cdEtJw=="
+  "resolved" "https://registry.npmjs.org/@vercel/analytics/-/analytics-1.0.0.tgz"
+  "version" "1.0.0"
 
 "@webassemblyjs/ast@^1.11.5", "@webassemblyjs/ast@1.11.5":
   "integrity" "sha512-LHY/GSAZZRpsNQH+/oHqhRQ5FT7eoULcBqgfyTB5nQHogFnK3/7QoN7dLnwSE/JkUAF0SrRuclT7ODqMFtWxxQ=="
@@ -5152,7 +5012,7 @@
     "eslint-config-turbo" "latest"
     "eslint-plugin-react" "7.28.0"
 
-"eslint-config-next@latest":
+"eslint-config-next@13.3.1", "eslint-config-next@latest":
   "integrity" "sha512-DieA5djybeE3Q0IqnDXihmhgRSp44x1ywWBBpVRA9pSx+m5Icj8hFclx7ffXlAvb9MMLN6cgj/hqJ4lka/QmvA=="
   "resolved" "https://registry.npmjs.org/eslint-config-next/-/eslint-config-next-13.3.1.tgz"
   "version" "13.3.1"
@@ -7692,7 +7552,7 @@
   "resolved" "https://registry.npmjs.org/neo-async/-/neo-async-2.6.2.tgz"
   "version" "2.6.2"
 
-"next@latest":
+"next@13.3.1", "next@latest":
   "integrity" "sha512-eByWRxPzKHs2oQz1yE41LX35umhz86ZSZ+mYyXBqn2IBi2hyUqxBA88avywdr4uyH+hCJczegGsDGWbzQA5Rqw=="
   "resolved" "https://registry.npmjs.org/next/-/next-13.3.1.tgz"
   "version" "13.3.1"
@@ -8549,7 +8409,7 @@
   "resolved" "https://registry.npmjs.org/react-refresh/-/react-refresh-0.11.0.tgz"
   "version" "0.11.0"
 
-"react@^0.14.8 || ^15.0.1 || ^16.0.0 || ^17.0.1 || ^18.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^16.8.4 || ^17.0.0 || ^18.0.0", "react@^18.2.0", "react@>= 0.14.0", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@>=16", "react@>=16.8.0", "react@16.8.0 - 18":
+"react@^0.14.8 || ^15.0.1 || ^16.0.0 || ^17.0.1 || ^18.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^16.8.4 || ^17.0.0 || ^18.0.0", "react@^16.8||^17||^18", "react@^18.2.0", "react@>= 0.14.0", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@>=16", "react@>=16.8.0", "react@16.8.0 - 18":
   "integrity" "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ=="
   "resolved" "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
   "version" "18.2.0"
@@ -9849,31 +9709,6 @@
   "resolved" "https://registry.npmjs.org/turbo-darwin-64/-/turbo-darwin-64-1.9.3.tgz"
   "version" "1.9.3"
 
-"turbo-darwin-arm64@1.9.3":
-  "integrity" "sha512-1cYbjqLBA2zYE1nbf/qVnEkrHa4PkJJbLo7hnuMuGM0bPzh4+AnTNe98gELhqI1mkTWBu/XAEeF5u6dgz0jLNA=="
-  "resolved" "https://registry.npmjs.org/turbo-darwin-arm64/-/turbo-darwin-arm64-1.9.3.tgz"
-  "version" "1.9.3"
-
-"turbo-linux-64@1.9.3":
-  "integrity" "sha512-UuBPFefawEwpuxh5pM9Jqq3q4C8M0vYxVYlB3qea/nHQ80pxYq7ZcaLGEpb10SGnr3oMUUs1zZvkXWDNKCJb8Q=="
-  "resolved" "https://registry.npmjs.org/turbo-linux-64/-/turbo-linux-64-1.9.3.tgz"
-  "version" "1.9.3"
-
-"turbo-linux-arm64@1.9.3":
-  "integrity" "sha512-vUrNGa3hyDtRh9W0MkO+l1dzP8Co2gKnOVmlJQW0hdpOlWlIh22nHNGGlICg+xFa2f9j4PbQlWTsc22c019s8Q=="
-  "resolved" "https://registry.npmjs.org/turbo-linux-arm64/-/turbo-linux-arm64-1.9.3.tgz"
-  "version" "1.9.3"
-
-"turbo-windows-64@1.9.3":
-  "integrity" "sha512-0BZ7YaHs6r+K4ksqWus1GKK3W45DuDqlmfjm/yuUbTEVc8szmMCs12vugU2Zi5GdrdJSYfoKfEJ/PeegSLIQGQ=="
-  "resolved" "https://registry.npmjs.org/turbo-windows-64/-/turbo-windows-64-1.9.3.tgz"
-  "version" "1.9.3"
-
-"turbo-windows-arm64@1.9.3":
-  "integrity" "sha512-QJUYLSsxdXOsR1TquiOmLdAgtYcQ/RuSRpScGvnZb1hY0oLc7JWU0llkYB81wVtWs469y8H9O0cxbKwCZGR4RQ=="
-  "resolved" "https://registry.npmjs.org/turbo-windows-arm64/-/turbo-windows-arm64-1.9.3.tgz"
-  "version" "1.9.3"
-
 "turbo@latest":
   "integrity" "sha512-ID7mxmaLUPKG/hVkp+h0VuucB1U99RPCJD9cEuSEOdIPoSIuomcIClEJtKamUsdPLhLCud+BvapBNnhgh58Nzw=="
   "resolved" "https://registry.npmjs.org/turbo/-/turbo-1.9.3.tgz"
@@ -10184,6 +10019,22 @@
   "version" "1.0.1"
   dependencies:
     "defaults" "^1.0.3"
+
+"web@file:/Users/sein/Code/shipmunk/turborepo-next-boilerplate/apps/web":
+  "resolved" "file:apps/web"
+  "version" "0.0.1"
+  dependencies:
+    "@types/node" "^18.11.17"
+    "@types/react" "^18.0.26"
+    "@types/react-dom" "^18.0.9"
+    "@vercel/analytics" "^1.0.0"
+    "eslint" "^7.32.0"
+    "eslint-config-next" "13.3.1"
+    "next" "13.3.1"
+    "react" "^18.2.0"
+    "react-dom" "^18.2.0"
+    "typescript" "^4.9.4"
+    "ui" "*"
 
 "webidl-conversions@^3.0.0":
   "integrity" "sha512-2JAn3z8AR6rjK8Sm8orRC0h/bcl/DqL7tRPdGZ4I1CjdF+EaMLmYxBHyXuKL849eucPFhvBoxMsflfOb8kxaeQ=="
