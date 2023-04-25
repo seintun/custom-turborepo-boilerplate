@@ -1,10 +1,9 @@
-name: Release
+name: Changeset Release
 
 on:
   push:
     branches:
       - main
-      - develop
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
@@ -16,17 +15,15 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Setup Node.js 18
+      - name: Setup Node.js 18.x
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 18.x
 
       - name: Install Dependencies
-        run: yarn
+        run: yarn install --frozen-lockfile
 
       - name: Create Release Pull Request
         uses: changesets/action@v1
-        with:
-          version: yarn version-packages
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
