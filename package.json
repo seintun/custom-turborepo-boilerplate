@@ -15,6 +15,7 @@
         "commit": "git-cz",
         "changeset": "changeset",
         "version-packages": "changeset version",
+        "tag-packages": "changeset tag",
         "publish-packages": "changeset publish",
         "storybook:dev": "turbo run storybook:dev --parallel",
         "storybook:build": "turbo run storybook:build --parallel",

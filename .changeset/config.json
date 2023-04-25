@@ -1,6 +1,10 @@
 {
     "$schema": "https://unpkg.com/@changesets/config@2.3.0/schema.json",
-    "changelog": "@changesets/cli/changelog",
+    "changelog": [
+        "@changesets/cli/changelog",
+        { "repo": "seintun/turborepo-next-boilerplate" }
+    ],
+    "title": "chore: release packages",
     "commit": false,
     "fixed": [],
     "linked": [],
