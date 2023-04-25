@@ -1,5 +1,11 @@
 # ui
 
+## 0.0.3
+
+### Patch Changes
+
+- de60936: ci(changeset-release): enhance changeset release pipeline
+
 ## 0.0.2
 
 ### Patch Changes

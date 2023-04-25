@@ -1,5 +1,13 @@
 # docs
 
+## 0.0.3
+
+### Patch Changes
+
+- de60936: ci(changeset-release): enhance changeset release pipeline
+- Updated dependencies [de60936]
+  - ui@0.0.3
+
 ## 0.0.2
 
 ### Patch Changes
