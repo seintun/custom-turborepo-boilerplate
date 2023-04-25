@@ -1,5 +1,11 @@
 # ui
 
+## 0.0.5
+
+### Patch Changes
+
+- b572f58: audit fix yaml vulnerabilities
+
 ## 0.0.4
 
 ### Patch Changes

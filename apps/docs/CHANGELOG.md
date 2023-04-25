@@ -1,5 +1,13 @@
 # docs
 
+## 0.0.5
+
+### Patch Changes
+
+- b572f58: audit fix yaml vulnerabilities
+- Updated dependencies [b572f58]
+  - ui@0.0.5
+
 ## 0.0.4
 
 ### Patch Changes
